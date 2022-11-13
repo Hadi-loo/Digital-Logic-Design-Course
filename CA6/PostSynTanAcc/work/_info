@@ -1,0 +1,82 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dG:/Uni/term 3/madar manteghi/Computer Assignments/CA6/test
+vhard_block
+Z0 !s110 1641662862
+!i10b 1
+!s100 TZ:Yloed3i^=VG1a;eBgM3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9mUcjIKfPHm^YJ6b7?R573
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dG:/Uni/term 3/madar manteghi/Computer Assignments/CA6/PostSynTanAcc
+Z4 w1641661520
+Z5 8G:/Uni/term 3/madar manteghi/Computer Assignments/CA6/PostSynTanAcc/TanAcc.vo
+Z6 FG:/Uni/term 3/madar manteghi/Computer Assignments/CA6/PostSynTanAcc/TanAcc.vo
+!i122 6
+L0 23523 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1641662862.000000
+Z9 !s107 G:/Uni/term 3/madar manteghi/Computer Assignments/CA6/PostSynTanAcc/TanAcc.vo|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|G:/Uni/term 3/madar manteghi/Computer Assignments/CA6/PostSynTanAcc/TanAcc.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vTanAcc
+R0
+!i10b 1
+!s100 Q9JkdRe58oA40KBhYkOAE0
+R1
+IGSSYSKLTNJ^]E3<b7zmHP3
+R2
+R3
+R4
+R5
+R6
+!i122 6
+L0 32 23490
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@tan@acc
+vTanAcc_TB
+!s110 1641662864
+!i10b 1
+!s100 jKa>aFO8gPIFf28Rfcn2N1
+R1
+Id@cQ6RD[nUSnhd7TgIm7f2
+R2
+R3
+w1641662859
+8G:/Uni/term 3/madar manteghi/Computer Assignments/CA6/PostSynTanAcc/TanAcc_TB.v
+FG:/Uni/term 3/madar manteghi/Computer Assignments/CA6/PostSynTanAcc/TanAcc_TB.v
+!i122 7
+L0 2 18
+R7
+r1
+!s85 0
+31
+R8
+!s107 G:/Uni/term 3/madar manteghi/Computer Assignments/CA6/PostSynTanAcc/TanAcc_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/Uni/term 3/madar manteghi/Computer Assignments/CA6/PostSynTanAcc/TanAcc_TB.v|
+!i113 1
+R11
+R12
+n@tan@acc_@t@b

@@ -1,0 +1,6 @@
+module LUT(input [3:0] adr, output [15:0] data);
+	reg [15:0] temp_data;
+	always @(adr) begin
+		case(adr)
+			0: temp_data = 16'b1111111111111111; // 1
+			1: temp_data = 

@@ -1,0 +1,16 @@
+{G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii/FreqDiv177.vo} {1 {vlog -work work -stats=none {G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii/FreqDiv177.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FreqDiv177
+-- Compiling module hard_block
+
+Top level modules:
+	FreqDiv177
+
+} {} {}} {G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii/FreqDiv177_TB.v} {1 {vlog -work work -stats=none {G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii/FreqDiv177_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FreqDiv177_TB
+
+Top level modules:
+	FreqDiv177_TB
+
+} {} {}}

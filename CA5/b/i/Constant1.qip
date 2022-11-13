@@ -1,0 +1,10 @@
+set_global_assignment -name IP_TOOL_NAME "LPM_CONSTANT"
+set_global_assignment -name IP_TOOL_VERSION "20.1"
+set_global_assignment -name IP_GENERATED_DEVICE_FAMILY "{Cyclone IV GX}"
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) "Constant1.v"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "Constant1.bsf"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "Constant1_inst.v"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "Constant1_bb.v"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "Constant1.inc"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "Constant1.cmp"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "Constant1_syn.v"]

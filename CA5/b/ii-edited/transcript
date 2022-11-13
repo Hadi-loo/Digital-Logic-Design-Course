@@ -1,0 +1,78 @@
+# Compile of FreqDev177.vo was successful.
+# Compile of FreqDiv177_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.FreqDiv177_TB -L altera_ver -L cycloneiv_ver -sdftyp {/UUT=G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDev177_v.sdo}
+# vsim -gui work.FreqDiv177_TB -L altera_ver -L cycloneiv_ver -sdftyp "/UUT=G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDev177_v.sdo" 
+# Start time: 19:48:37 on Dec 26,2021
+# Loading work.FreqDiv177_TB
+# ** Error: (vsim-3033) Instantiation of 'FreqDiv177' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /FreqDiv177_TB File: G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDiv177_TB.v Line: 6
+#         Searched libraries:
+#             F:/intelFPGA_lite/20.1/modelsim_ase/altera/verilog/altera
+#             F:/intelFPGA_lite/20.1/modelsim_ase/altera/verilog/cycloneiv
+#             G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/work
+# Error loading design
+# End time: 19:48:38 on Dec 26,2021, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 5
+# Load canceled
+# Compile of FreqDev177.vo was successful.
+# Compile of FreqDiv177_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui -L altera_ver -L cycloneiv_ver -sdftyp {/UUT=G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDev177_v.sdo} work.FreqDiv177_TB
+# vsim -gui -L altera_ver -L cycloneiv_ver -sdftyp "/UUT=G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDev177_v.sdo" work.FreqDiv177_TB 
+# Start time: 19:50:21 on Dec 26,2021
+# Loading work.FreqDiv177_TB
+# ** Error: (vsim-3033) Instantiation of 'FreqDiv177' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /FreqDiv177_TB File: G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDiv177_TB.v Line: 5
+#         Searched libraries:
+#             F:/intelFPGA_lite/20.1/modelsim_ase/altera/verilog/altera
+#             F:/intelFPGA_lite/20.1/modelsim_ase/altera/verilog/cycloneiv
+#             G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/work
+# Error loading design
+# End time: 19:50:22 on Dec 26,2021, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 2
+vsim -gui -L altera_ver -L cycloneiv_ver -sdftyp {/UUT=G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDev177_v.sdo} work.FreqDiv177_TB
+# vsim -gui -L altera_ver -L cycloneiv_ver -sdftyp "/UUT=G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDev177_v.sdo" work.FreqDiv177_TB 
+# Start time: 19:55:19 on Dec 26,2021
+# Loading work.FreqDiv177_TB
+# ** Error: (vsim-3033) Instantiation of 'FreqDiv177' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /FreqDiv177_TB File: G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDiv177_TB.v Line: 5
+#         Searched libraries:
+#             F:/intelFPGA_lite/20.1/modelsim_ase/altera/verilog/altera
+#             F:/intelFPGA_lite/20.1/modelsim_ase/altera/verilog/cycloneiv
+#             G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/work
+# Error loading design
+# End time: 19:55:20 on Dec 26,2021, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 1
+# Compile of FreqDiv177_TB.v was successful.
+vsim -gui -L altera_ver -L cycloneiv_ver -sdftyp {/UUT=G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDev177_v.sdo} work.FreqDiv177_TB
+# vsim -gui -L altera_ver -L cycloneiv_ver -sdftyp "/UUT=G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDev177_v.sdo" work.FreqDiv177_TB 
+# Start time: 19:56:33 on Dec 26,2021
+# Loading work.FreqDiv177_TB
+# Loading work.FreqDev177
+# Loading work.hard_block
+# Loading cycloneiv_ver.cycloneiv_io_obuf
+# Loading cycloneiv_ver.cycloneiv_io_ibuf
+# Loading cycloneiv_ver.cycloneiv_clkctrl
+# Loading cycloneiv_ver.cycloneiv_mux41
+# Loading cycloneiv_ver.cycloneiv_ena_reg
+# Loading cycloneiv_ver.cycloneiv_lcell_comb
+# Loading altera_ver.dffeas
+# SDF 2020.1 Compiler 2020.02 Feb 28 2020
+# 
+# Loading instances from G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDev177_v.sdo
+# Loading instances from FreqDev177_v.sdo
+# Loading altera_ver.PRIM_GDFF_LOW
+# Loading timing data from G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDev177_v.sdo
+# Loading timing data from FreqDev177_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /FreqDiv177_TB File: G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDiv177_TB.v
+add wave -position end  sim:/FreqDiv177_TB/clk
+add wave -position end  sim:/FreqDiv177_TB/rst
+add wave -position end  sim:/FreqDiv177_TB/w
+run -all
+# ** Note: $stop    : G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDiv177_TB.v(8)
+#    Time: 100550 ns  Iteration: 0  Instance: /FreqDiv177_TB
+# Break in Module FreqDiv177_TB at G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/b/ii-edited/FreqDiv177_TB.v line 8
+# End time: 20:03:09 on Dec 26,2021, Elapsed time: 0:06:36
+# Errors: 0, Warnings: 2

@@ -1,0 +1,7 @@
+
+State Machine - |TanAcc|controller:Controller|ps
+Name ps.calc ps.load ps.init ps.idle 
+ps.idle 0 0 0 0 
+ps.init 0 0 1 1 
+ps.load 0 1 0 1 
+ps.calc 1 0 0 1 

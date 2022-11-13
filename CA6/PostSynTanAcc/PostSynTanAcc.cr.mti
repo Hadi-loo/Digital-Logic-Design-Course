@@ -1,0 +1,16 @@
+{G:/Uni/term 3/madar manteghi/Computer Assignments/CA6/PostSynTanAcc/TanAcc_TB.v} {1 {vlog -work work -stats=none {G:/Uni/term 3/madar manteghi/Computer Assignments/CA6/PostSynTanAcc/TanAcc_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TanAcc_TB
+
+Top level modules:
+	TanAcc_TB
+
+} {} {}} {G:/Uni/term 3/madar manteghi/Computer Assignments/CA6/PostSynTanAcc/TanAcc.vo} {1 {vlog -work work -stats=none {G:/Uni/term 3/madar manteghi/Computer Assignments/CA6/PostSynTanAcc/TanAcc.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TanAcc
+-- Compiling module hard_block
+
+Top level modules:
+	TanAcc
+
+} {} {}}

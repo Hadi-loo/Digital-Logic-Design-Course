@@ -1,0 +1,24 @@
+{G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/a/iii/moore10110_TB.v} {1 {vlog -work work -stats=none {G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/a/iii/moore10110_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module moore10110_pre
+-- Compiling module moore10110_TB
+
+Top level modules:
+	moore10110_TB
+
+} {} {}} {G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/a/iii/moore10110_pre.v} {1 {vlog -work work -stats=none {G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/a/iii/moore10110_pre.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module moore10110_pre
+
+Top level modules:
+	moore10110_pre
+
+} {} {}} {G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/a/iii/moore10110_post.vo} {1 {vlog -work work -stats=none {G:/Uni/term 3/madar manteghi/Computer Assignments/CA5/a/iii/moore10110_post.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module moore10110
+-- Compiling module hard_block
+
+Top level modules:
+	moore10110
+
+} {} {}}
